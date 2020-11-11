@@ -5,3 +5,4 @@ Olá!
 Sejam bem vindos ao meu livro de receitas :wave:
 
 - Strogonoff de Frango
+- Bolo de Chocolate
